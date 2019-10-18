@@ -16,7 +16,7 @@ describe.skip('SM01 - Login', function() {
   */
   it.skip('Verify user can login successful with valid account', function() {
     this.accounts.forEach((account) => {
-      // Login with valid 
+      // Login with valid n
       cy.login(account.email, account.password)
 
       // VP: username displays on my profile page
