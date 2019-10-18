@@ -1,4 +1,4 @@
-describe.skip('SM01 - Login', function() {
+describe('SM01 - Login', function() {
 
   /**
   * PRE & POST CONDITIONS
