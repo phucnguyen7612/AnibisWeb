@@ -1,4 +1,4 @@
-describe.skip('UI01 - Home Page', function() {
+describe('UI01 - Home Page', function() {
   /**
   * TESTCASES
   */
